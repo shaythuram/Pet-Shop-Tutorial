@@ -2,7 +2,7 @@
 App petshop tutorial CAA 11022020
 
 
-Tutorial as part of learning how to code in solidity.
+Tutorial as part of learning how to code in solidity.(Language in which most smart contracts, backbone of blockchain, are written)
 
 Current Functionality:
 
